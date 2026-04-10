@@ -17,6 +17,8 @@ loadstring(game:HttpGet("https://arqel.orqan.lol/loader"))()
 
 ![Arqel](https://raw.githubusercontent.com/Cobruhehe/Arqel/refs/heads/main/stuff/arqina.png)
 
+<a href="https://rscripts.net/user/Cobru" target="_blank"><img alt="Cobru on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/Cobru?theme=dark" /></a>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V51VT397)
 
 </div>
